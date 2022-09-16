@@ -1,0 +1,9 @@
+.header{
+    text-align: center;
+    color: tomato;
+}
+.slider{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
